@@ -77,7 +77,7 @@ The dashboard tracks:
 Add your dashboard screenshot to the screenshots folder and insert it below:
 
 ```markdown
-![Retail Sales Dashboard](screenshots/dashboard-overview.png)
+![Screenshot Dashboard](screenshots/Screenshot Dashboard.png)
 ```
 
 ---
