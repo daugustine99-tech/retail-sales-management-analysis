@@ -74,11 +74,8 @@ The dashboard tracks:
 
 ## Dashboard Preview
 
-Add your dashboard screenshot to the screenshots folder and insert it below:
 
-```markdown
-![Screenshot Dashboard](screenshots/Screenshot Dashboard.png)
-```
+![Screenshot Dashboard](screenshots/Screenshot%20Dashboard.png)
 
 ---
 
@@ -126,8 +123,7 @@ This project demonstrates how Excel can be used to convert raw business data int
 
 **Augustine Daniel**
 
-Aspiring Data Analyst | Excel | SQL | Power BI | Data Visualization
+Data Analyst | Excel | SQL | Power BI | Data Visualization
 
-GitHub: Add your GitHub profile link here
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: www.linkedin.com/in/augustine-daniel-7b92a1288
